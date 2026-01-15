@@ -2,11 +2,11 @@
 
 ## :bookmark_tabs: Задание / Tasks:
 
-- Протестировать интернет-сайт Мос.ру / Test Mos.ru online site
+- Протестировать интернет-магазин Лемана Про / Test Lеmana Pro online store
 - Сформировать чек-листы на основе требований / Generate checklists based on requirements ✅
 - Сформировать тест-кейсы / Generate test cases ✅
 - Сформировать баг-репорты в Jira.Трекере / Generate bug reports in Jira.Tracker ✅
-- Сформировать таблицы отчёта трассируемости требований / Generate report tables ✅
+- Сформировать таблицы отчёта / Generate report tables ✅
 
 ## :hammer_and_wrench: Инструменты / Tools:
 
